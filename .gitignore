@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.vsc
+.idea/
+venv/
+db.sqlite3
+__pycache__/
+app/tickets/settings/prod.py
+app/tickets/debug.log
